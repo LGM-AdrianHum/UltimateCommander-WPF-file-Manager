@@ -1,0 +1,17 @@
+d:\MyProjects\UltimateCommander-WPF-file-Manager\UC_src_main\UcMediaViewer\bin\Release\UcMediaViewer.dll
+d:\MyProjects\UltimateCommander-WPF-file-Manager\UC_src_main\UcMediaViewer\bin\Release\UcMediaViewer.pdb
+d:\MyProjects\UltimateCommander-WPF-file-Manager\UC_src_main\UcMediaViewer\bin\Release\JoyOs.BusinessLogic.dll
+d:\MyProjects\UltimateCommander-WPF-file-Manager\UC_src_main\UcMediaViewer\bin\Release\JoyOs.Media.dll
+d:\MyProjects\UltimateCommander-WPF-file-Manager\UC_src_main\UcMediaViewer\bin\Release\JoyOs.BusinessLogic.pdb
+d:\MyProjects\UltimateCommander-WPF-file-Manager\UC_src_main\UcMediaViewer\bin\Release\JoyOs.Media.pdb
+d:\MyProjects\UltimateCommander-WPF-file-Manager\UC_src_main\UcMediaViewer\obj\Release\UcMediaViewer.csprojAssemblyReference.cache
+d:\MyProjects\UltimateCommander-WPF-file-Manager\UC_src_main\UcMediaViewer\obj\Release\MediaViewer.baml
+d:\MyProjects\UltimateCommander-WPF-file-Manager\UC_src_main\UcMediaViewer\obj\Release\MediaViewer.g.cs
+d:\MyProjects\UltimateCommander-WPF-file-Manager\UC_src_main\UcMediaViewer\obj\Release\UcMediaViewer_MarkupCompile.cache
+d:\MyProjects\UltimateCommander-WPF-file-Manager\UC_src_main\UcMediaViewer\obj\Release\UcMediaViewer.g.resources
+d:\MyProjects\UltimateCommander-WPF-file-Manager\UC_src_main\UcMediaViewer\obj\Release\UcMediaViewer.Properties.Resources.resources
+d:\MyProjects\UltimateCommander-WPF-file-Manager\UC_src_main\UcMediaViewer\obj\Release\UcMediaViewer.csproj.GenerateResource.cache
+d:\MyProjects\UltimateCommander-WPF-file-Manager\UC_src_main\UcMediaViewer\obj\Release\UcMediaViewer.csproj.CoreCompileInputs.cache
+d:\MyProjects\UltimateCommander-WPF-file-Manager\UC_src_main\UcMediaViewer\obj\Release\UcMediaViewer.csproj.CopyComplete
+d:\MyProjects\UltimateCommander-WPF-file-Manager\UC_src_main\UcMediaViewer\obj\Release\UcMediaViewer.dll
+d:\MyProjects\UltimateCommander-WPF-file-Manager\UC_src_main\UcMediaViewer\obj\Release\UcMediaViewer.pdb

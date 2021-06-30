@@ -1,0 +1,6 @@
+d:\MyProjects\UltimateCommander-WPF-file-Manager\UC_src_main\JoyOs.BusinessLogic\bin\Release\JoyOs.BusinessLogic.dll
+d:\MyProjects\UltimateCommander-WPF-file-Manager\UC_src_main\JoyOs.BusinessLogic\bin\Release\JoyOs.BusinessLogic.pdb
+d:\MyProjects\UltimateCommander-WPF-file-Manager\UC_src_main\JoyOs.BusinessLogic\obj\Release\JoyOs.BusinessLogic.csprojAssemblyReference.cache
+d:\MyProjects\UltimateCommander-WPF-file-Manager\UC_src_main\JoyOs.BusinessLogic\obj\Release\JoyOs.BusinessLogic.csproj.CoreCompileInputs.cache
+d:\MyProjects\UltimateCommander-WPF-file-Manager\UC_src_main\JoyOs.BusinessLogic\obj\Release\JoyOs.BusinessLogic.dll
+d:\MyProjects\UltimateCommander-WPF-file-Manager\UC_src_main\JoyOs.BusinessLogic\obj\Release\JoyOs.BusinessLogic.pdb

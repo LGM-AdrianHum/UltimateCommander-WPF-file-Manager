@@ -1,0 +1,9 @@
+d:\MyProjects\UltimateCommander-WPF-file-Manager\UC_src_main\JoyOs.Media\bin\Release\JoyOs.Media.dll
+d:\MyProjects\UltimateCommander-WPF-file-Manager\UC_src_main\JoyOs.Media\bin\Release\JoyOs.Media.pdb
+d:\MyProjects\UltimateCommander-WPF-file-Manager\UC_src_main\JoyOs.Media\obj\Release\JoyOs.Media.csprojAssemblyReference.cache
+d:\MyProjects\UltimateCommander-WPF-file-Manager\UC_src_main\JoyOs.Media\obj\Release\JoyOs.Media.g.resources
+d:\MyProjects\UltimateCommander-WPF-file-Manager\UC_src_main\JoyOs.Media\obj\Release\JoyOs.Media.Properties.Resources.resources
+d:\MyProjects\UltimateCommander-WPF-file-Manager\UC_src_main\JoyOs.Media\obj\Release\JoyOs.Media.csproj.GenerateResource.cache
+d:\MyProjects\UltimateCommander-WPF-file-Manager\UC_src_main\JoyOs.Media\obj\Release\JoyOs.Media.csproj.CoreCompileInputs.cache
+d:\MyProjects\UltimateCommander-WPF-file-Manager\UC_src_main\JoyOs.Media\obj\Release\JoyOs.Media.dll
+d:\MyProjects\UltimateCommander-WPF-file-Manager\UC_src_main\JoyOs.Media\obj\Release\JoyOs.Media.pdb
